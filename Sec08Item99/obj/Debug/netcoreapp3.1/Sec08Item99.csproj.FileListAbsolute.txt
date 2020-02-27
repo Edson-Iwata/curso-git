@@ -1,0 +1,11 @@
+C:\Users\Edson 01\Desktop\Sec08Item99\Sec08Item99\bin\Debug\netcoreapp3.1\Sec08Item99.exe
+C:\Users\Edson 01\Desktop\Sec08Item99\Sec08Item99\bin\Debug\netcoreapp3.1\Sec08Item99.deps.json
+C:\Users\Edson 01\Desktop\Sec08Item99\Sec08Item99\bin\Debug\netcoreapp3.1\Sec08Item99.runtimeconfig.json
+C:\Users\Edson 01\Desktop\Sec08Item99\Sec08Item99\bin\Debug\netcoreapp3.1\Sec08Item99.runtimeconfig.dev.json
+C:\Users\Edson 01\Desktop\Sec08Item99\Sec08Item99\bin\Debug\netcoreapp3.1\Sec08Item99.dll
+C:\Users\Edson 01\Desktop\Sec08Item99\Sec08Item99\bin\Debug\netcoreapp3.1\Sec08Item99.pdb
+C:\Users\Edson 01\Desktop\Sec08Item99\Sec08Item99\obj\Debug\netcoreapp3.1\Sec08Item99.csprojAssemblyReference.cache
+C:\Users\Edson 01\Desktop\Sec08Item99\Sec08Item99\obj\Debug\netcoreapp3.1\Sec08Item99.AssemblyInfoInputs.cache
+C:\Users\Edson 01\Desktop\Sec08Item99\Sec08Item99\obj\Debug\netcoreapp3.1\Sec08Item99.AssemblyInfo.cs
+C:\Users\Edson 01\Desktop\Sec08Item99\Sec08Item99\obj\Debug\netcoreapp3.1\Sec08Item99.dll
+C:\Users\Edson 01\Desktop\Sec08Item99\Sec08Item99\obj\Debug\netcoreapp3.1\Sec08Item99.pdb
