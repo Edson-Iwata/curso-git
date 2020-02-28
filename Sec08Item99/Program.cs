@@ -8,6 +8,7 @@ namespace Sec08Item99
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia");
+            Console.WriteLine("como você está hoje ?");
             Console.ReadLine();
         }
     }
